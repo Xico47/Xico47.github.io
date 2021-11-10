@@ -241,6 +241,16 @@ a:hover {
   margin-right: 10px;
 }
 
+.esquerda{
+  float: left;
+}
+.meio{
+  float: none;
+}
+.direita{
+  float: right;
+}
+
 /*------/ Ico Circle /------*/
 .ico-circle {
   height: 100px;
